@@ -6,7 +6,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 
 README = open('README.rst').read()
 CHANGES = ""
-version = "1.0.0"
+version = "6.6.6"
 
 requires = ['distribute',]
 
